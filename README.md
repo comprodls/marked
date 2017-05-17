@@ -1,10 +1,10 @@
 # marked
 
-> comproDLS version of [marked](https://github.com/chjj/marked) (A full-featured markdown parser and compiler, written in JavaScript.)
+comproDLS version of [marked](https://github.com/chjj/marked) (A full-featured markdown parser and compiler, written in JavaScript.)
 
 This readme provides the original usage of marked library. 
-- For comproDLS updates to the original library, please refer wiki page [comproDLS Updates](https://github.com/comprodls/marked/wiki/comproDLS-Updates). 
-- For comproDLS flavored markdown (extensions to orginal markdown grammar), please refer wiki page [comproDLS Flavored Markdown](https://github.com/comprodls/marked/wiki/comproDLS-Flavored-Markdown)
+- For comproDLS updates to the original library, please refer wiki page [comproDLS Updates](https://github.com/comprodls/marked/wiki/01_comproDLS-Updates-to-Marked). 
+- For comproDLS flavored markdown (extensions to orginal markdown grammar), please refer wiki page [comproDLS Flavored Markdown](https://github.com/comprodls/marked/wiki/02_comproDLS-Flavored-Markdown)
 
 
 [![NPM version](https://badge.fury.io/js/marked.png)][badge]
